@@ -29,7 +29,7 @@
 			  //imageUrl: 'https://mtngirl.kr/assets/img/01.jpg',
 			  //imageUrl: 'https://mtngirl.kr/images/post/somdari.jpg',
               //imageUrl: 'https://sansonyeo.github.io/SoSimple/images/post/somdari.jpg',
-                imageUrl: 'https://mtngirl.kr/images/{{ absolute_url }}/main.jpg',
+                imageUrl: '{{ page.url | page.image.path  }}',
 			  //imageUrl: '{{ page.url | absolute_url }}',
 			  //imageUrl: '{{ page.image }}',
 			link: {
