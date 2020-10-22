@@ -1,0 +1,16 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Yun Jin Young:
+  name: Yun Jin Young
+  picture: /images/bio-photo-2.jpg
+  twitter: "@whitedove95"
+  links:
+    - title: Twitter
+      url: https://twitter.com/whitedove95
+      icon: fab fa-twitter-square
+
+Cornelius Fiddlebone:
+  name: Cornelius Fiddlebone
+  picture: /images/bio-photo.jpg
+  twitter: corneliusfiddlebone
