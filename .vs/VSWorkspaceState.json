@@ -5,10 +5,12 @@
     "\\.github\\workflows",
     "\\assets",
     "\\images",
+    "\\images\\book",
     "\\images\\road",
+    "\\_book",
     "\\_includes",
     "\\_posts"
   ],
-  "SelectedNode": "\\.github\\FUNDING.yml",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
