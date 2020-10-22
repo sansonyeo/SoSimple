@@ -19,7 +19,7 @@ skin: "/assets/css/skins/dark.css"
 locale: ko #en-US
 title: "SanSoNyeo's Blog"
 description: "Korea Mountain Girl and Application Software Developer especially likes Mt.Seorak Mt.Bukhan and Mt.Jiri!"
-baseurl: #"/example" # the subpath of your site, e.g. "/blog"
+baseurl: "/SoSimple" #"/example" # the subpath of your site, e.g. "/blog"
 url: "https://sansonyeo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: #"/images/sansonyeo-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
