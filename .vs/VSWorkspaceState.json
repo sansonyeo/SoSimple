@@ -3,12 +3,9 @@
     "",
     "\\.github",
     "\\.github\\workflows",
-    "\\assets",
-    "\\images",
     "\\images\\book",
     "\\images\\road",
     "\\_book",
-    "\\_includes",
     "\\_posts"
   ],
   "SelectedNode": "\\_config.yml",
