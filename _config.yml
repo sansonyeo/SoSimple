@@ -151,9 +151,3 @@ footer_links:
 
 # copyright
 copyright: "© 2020 SanSoNyeo"
-
-# image
-image:
-  path: /images/post/somdari.jpg
-  thumbnail: /images/somdari-logo.jpg
-  caption: "SanSoNyeo's Blog (https://mtngirl.kr)"
