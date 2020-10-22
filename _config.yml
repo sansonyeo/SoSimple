@@ -36,7 +36,7 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
-  shortname: "Yunjinyoung" # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: "mtngirl" # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
   username: whitedove95 # site's Twitter username 
 

@@ -3,8 +3,6 @@
     "",
     "\\.github",
     "\\.github\\workflows",
-    "\\images\\book",
-    "\\images\\road",
     "\\_book",
     "\\_posts"
   ],
