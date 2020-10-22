@@ -2,10 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\.github",
+    "\\.github\\workflows",
     "\\assets",
-    "\\_data",
-    "\\_recipes",
-    "\\_site"
+    "\\images",
+    "\\images\\road",
+    "\\_includes",
+    "\\_posts"
   ],
+  "SelectedNode": "\\.github\\FUNDING.yml",
   "PreviewInSolutionExplorer": false
 }
