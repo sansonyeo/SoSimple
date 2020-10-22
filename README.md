@@ -1,2 +1,0 @@
-# SoSimple
-SoSimple
