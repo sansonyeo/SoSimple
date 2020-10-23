@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
-    "\\_book",
+    "\\_layouts",
     "\\_posts"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_posts\\2020-10-20-02webservice.md",
   "PreviewInSolutionExplorer": false
 }
