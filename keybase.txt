@@ -54,3 +54,15 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/mtngirl
 
 ==================================================================
+
+curl \
+  --data-urlencode sig="$(\
+   echo '{"body":{"key":{"eldest_kid":"01208d18e13fb04dc0acb6ac3db44a17f7e789c367826554c453b66441f9cdf2ab0a0a","fingerprint":"3d0f137db2653ca384046a49cfdcf50e30b5cadc","host":"keybase.io","key_id":"cfdcf50e30b5cadc","kid":"0101607b84c906e5b3f3720fa312e6a82fcf0ce2d9b81810bdf780a6a245448645530a","uid":"f9e9b2935baeb9003d6aefc8a4f64919","username":"mtngirl"},"service":{"hostname":"mtngirl.kr","protocol":"https:"},"type":"web_service_binding","version":1},"ctime":1603498230,"expire_in":157680000,"prev":"9b0b4541f44383e3cd39f60cdc15dc3f5bcd57cd01db32c3e862f7dd27d18cbe","seqno":50,"tag":"signature"}' | \
+   gpg -u '3d0f137db2653ca384046a49cfdcf50e30b5cadc' -a --sign)" \
+  --data-urlencode type="web_service_binding.generic" \
+  --data-urlencode csrf_token="lgHZIGY5ZTliMjkzNWJhZWI5MDAzZDZhZWZjOGE0ZjY0OTE5zl+TcEnOAxcEAMDEIBYI4wLcGJFOkhAreDI4uZz5zZqqJP1beMJsJiflu0AR" \
+  --data-urlencode plain_out="1" \
+  --data-urlencode session="kyjEEPnpspNbrrkAPWrvyKT2SRnEEPIkCEliNGKip7fLseM8/jM=" \
+  --data-urlencode signing_kid="0101607b84c906e5b3f3720fa312e6a82fcf0ce2d9b81810bdf780a6a245448645530a" \
+  --data-urlencode remote_host="https://mtngirl.kr" \
+  https://keybase.io/_/api/1.0/sig/post.json
