@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\.github",
+    "\\.github\\workflows",
     "\\assets",
-    "\\_includes",
-    "\\_layouts",
+    "\\_posts",
     "\\_yws"
   ],
+  "SelectedNode": "\\_includes",
   "PreviewInSolutionExplorer": false
 }
