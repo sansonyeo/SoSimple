@@ -135,7 +135,7 @@ author:
       icon: fab fa-github-square
     - title: Keybase
       url: https://keybase.io/mtngirl
-      icon: fab fa-keybase-square
+      icon: fab fa-keybase
 
 # Footer Links
 footer_links:
@@ -153,7 +153,7 @@ footer_links:
     icon: fab fa-github-square
   - title: Keybase
       url: https://keybase.io/mtngirl
-      icon: fab fa-keybase-square
+      icon: fab fa-keybase
 
 # copyright
 copyright: "© 2020 SanSoNyeo"
