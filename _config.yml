@@ -129,10 +129,13 @@ author:
       icon: fab fa-twitter-square
     - title: Instagram
       url: https://instagram.com/mtngirl_yun
-      icon: fab fa-instagram
+      icon: fab fa-instagram-square
     - title: GitHub
       url: https://github.com/sansonyeo
       icon: fab fa-github-square
+    - title: Keybase
+      url: https://keybase.io/mtngirl
+      icon: fab fa-keybase-square
 
 # Footer Links
 footer_links:
@@ -144,10 +147,13 @@ footer_links:
     icon: fab fa-twitter-square
   - title: Instagram
     url: https://instagram.com/mtngirl_yun
-    icon: fab fa-instagram
+    icon: fab fa-instagram-square
   - title: GitHub
     url: https://github.com/sansonyeo
     icon: fab fa-github-square
+  - title: Keybase
+      url: https://keybase.io/mtngirl
+      icon: fab fa-keybase-square
 
 # copyright
 copyright: "© 2020 SanSoNyeo"
