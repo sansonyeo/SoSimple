@@ -129,7 +129,7 @@ author:
       icon: fab fa-twitter-square
     - title: Instagram
       url: https://instagram.com/mtngirl_yun
-      icon: fab fa-instagram-square
+      icon: fab fa-instagram
     - title: GitHub
       url: https://github.com/sansonyeo
       icon: fab fa-github-square
@@ -147,7 +147,7 @@ footer_links:
     icon: fab fa-twitter-square
   - title: Instagram
     url: https://instagram.com/mtngirl_yun
-    icon: fab fa-instagram-square
+    icon: fab fa-instagram
   - title: GitHub
     url: https://github.com/sansonyeo
     icon: fab fa-github-square
