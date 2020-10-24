@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
     "\\assets",
     "\\_includes",
     "\\_layouts",
     "\\_yws"
   ],
-  "SelectedNode": "\\assets\\js",
   "PreviewInSolutionExplorer": false
 }
