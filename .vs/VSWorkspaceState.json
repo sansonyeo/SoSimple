@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
     "\\.github\\workflows",
-    "\\assets",
-    "\\_yws"
+    "\\images",
+    "\\images\\post",
+    "\\_posts"
   ],
-  "SelectedNode": "\\favicon.ico",
+  "SelectedNode": "\\images\\post\\5th_umff_program_book.pdf",
   "PreviewInSolutionExplorer": false
 }
