@@ -14,7 +14,7 @@ date: 2020-10-22 23:57:41 +0900
 
 ---
 닷넷 웹서비스 구축 (로컬 테스트)  
-[웹서비스로컬](http://192.168.219.160:86/WebService1.asmx?op=SelectCertificates "웹서비스로컬")  
+[웹서비스로컬](http://192.168.219.130:86/WebService1.asmx?op=SelectCertificates "웹서비스로컬")  
 
 ---
 서버, 클라이언트 소스<br>
