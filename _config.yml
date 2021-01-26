@@ -17,7 +17,7 @@ theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/dark.css"
 locale: ko #en-US
-title: "SanSoNyeo' Blog"
+title: "SanSoNyeo's Blog"
 description: "겨울 주말엔 스키어 ⛷" #"So you have to trust that the dots will somehow connect in your future. -Steve Jobs"
 baseurl: "" #"/example" # the subpath of your site, e.g. "/blog"
 url: "https://mtngirl.kr" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
